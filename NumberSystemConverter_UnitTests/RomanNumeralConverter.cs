@@ -9,7 +9,10 @@ namespace NumberSystemConverter_UnitTests
     {
         internal void ConvertRomanNumeral(int p)
         {
-            throw new NotImplementedException();
+            if (p < 1 || p > 3000)
+            {
+                throw new IndexOutOfRangeException("The number supplied is out of the expected range (1 - 3000).");
+            }
         }
     }
 }
