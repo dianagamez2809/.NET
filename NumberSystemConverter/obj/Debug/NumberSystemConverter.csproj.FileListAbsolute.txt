@@ -1,0 +1,5 @@
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\NumberSystemConverter.dll
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\NumberSystemConverter.pdb
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumberSystemConverter.csprojResolveAssemblyReference.cache
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumberSystemConverter.dll
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumberSystemConverter.pdb

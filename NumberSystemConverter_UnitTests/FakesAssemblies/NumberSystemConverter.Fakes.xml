@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NumberSystemConverter.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter">
+            <summary>Tipo de correcciones de compatibilidad (shim) de NumberSystemConverter_UnitTests.RomanNumeralConverter</summary>
+        </member>
+        <member name="M:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.#ctor(NumberSystemConverter_UnitTests.RomanNumeralConverter)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.Constructor">
+            <summary>Establecer el shim de RomanNumeralConverter.RomanNumeralConverter()</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.ConvertRomanNumeralInt32">
+            <summary>Establecer el shim de RomanNumeralConverter.ConvertRomanNumeral(Int32 p)</summary>
+        </member>
+        <member name="T:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.ShimRomanNumeralConverter.AllInstances.ConvertRomanNumeralInt32">
+            <summary>Establecer el shim de RomanNumeralConverter.ConvertRomanNumeral(Int32 p)</summary>
+        </member>
+        <member name="T:NumberSystemConverter_UnitTests.Fakes.StubRomanNumeralConverter">
+            <summary>Tipo stub de NumberSystemConverter_UnitTests.RomanNumeralConverter</summary>
+        </member>
+        <member name="M:NumberSystemConverter_UnitTests.Fakes.StubRomanNumeralConverter.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:NumberSystemConverter_UnitTests.Fakes.StubRomanNumeralConverter.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubRomanNumeralConverter</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.StubRomanNumeralConverter.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.StubRomanNumeralConverter.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:NumberSystemConverter_UnitTests.Fakes.StubRomanNumeralConverter.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter_UnitTests.dll
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter_UnitTests.pdb
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.csprojResolveAssemblyReference.cache
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.dll
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.pdb
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter.dll
+c:\users\karen\documents\visual studio 2012\Projects\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter.pdb
